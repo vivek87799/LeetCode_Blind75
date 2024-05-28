@@ -19,7 +19,7 @@ Welcome to my journey through the LeetCode Blind 75 problems. This repository co
 
 ## Array
 
-1. [Two Sum](solutions/array/TwoSum.md)
+1. [Two Sum](array/01_two_sum.py)
 2. [Best Time to Buy and Sell Stock](solutions/array/BestTimetoBuyandSellStock.md)
 3. [Contains Duplicate](solutions/array/ContainsDuplicate.md)
 4. [Product of Array Except Self](solutions/array/ProductofArrayExceptSelf.md)
