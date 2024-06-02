@@ -143,6 +143,9 @@ Welcome to my journey through the LeetCode Blind 75 problems. This repository co
 5. [Design Add and Search Words Data Structure](solutions/design/DesignAddandSearchWordsDataStructure.md)
 6. [Find Median from Data Stream](solutions/design/FindMedianfromDataStream.md)
 
+## Extras
+
+1. [Binary Search] (extras/binary_search.py)
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
